@@ -1,0 +1,6 @@
+{
+  "name": "KAMERA IOS",
+  "description": "Aplikasi kamera Android premium dengan fitur lengkap seperti Foto HD, Video 4K, Mode Sinematik, Potret, Malam, Slow Motion, Panorama, Pro Mode, dan Galeri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
